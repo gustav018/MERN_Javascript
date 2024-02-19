@@ -9,7 +9,7 @@ Este repositorio contiene ejercicios relacionados con el bootcamp de MERN (Mongo
 - [**Convertir a flecha**](/Convertir_a_flecha) ✔️
 - [**¿Cuánto tiempo tomó?**]()
 - [**Ordenamiento Rápido**]()
-- [**Ninja**]()
+- [**Ninja**](/Ninja) ✔️
 - [**Super Ninja**]()
 - [**Es Hora de Duelo**]()
 - [**Maestro de objetos**]()
