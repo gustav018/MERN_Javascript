@@ -5,7 +5,7 @@ Este repositorio contiene ejercicios relacionados con el bootcamp de MERN (Mongo
 ## Contenido
 
 - [**Hoist de JavaScript**](/Hoist) ✔️
-- [**Predecir la desestructuración**](/Predecir_la _desestructuracion) ✔️
+- [**Predecir la desestructuración**](/Predecir_la%20_desestructuracion) ✔️
 - [**Convertir a flecha**](/Convertir_a_flecha) ✔️
 - [**¿Cuánto tiempo tomó?**]()
 - [**Ordenamiento Rápido**]()
