@@ -10,7 +10,7 @@ Este repositorio contiene ejercicios relacionados con el bootcamp de MERN (Mongo
 - [**¿Cuánto tiempo tomó?**]()
 - [**Ordenamiento Rápido**]()
 - [**Ninja**](/Ninja) ✔️
-- [**Super Ninja**](/Super_Ninja)
+- [**Super Ninja**](/Super_Ninja) ✔️
 - [**Es Hora de Duelo**]()
 - [**Maestro de objetos**]()
 
